@@ -30,4 +30,11 @@
 		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Mylib</name>
+			<type>2</type>
+			<location>D:/STM32CubeIDE_1.7.0/Mylib</location>
+		</link>
+	</linkedResources>
 </projectDescription>
