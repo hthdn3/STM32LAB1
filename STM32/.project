@@ -32,9 +32,9 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>Mylib</name>
+			<name>ex3.1lib</name>
 			<type>2</type>
-			<location>D:/STM32CubeIDE_1.7.0/Mylib</location>
+			<location>D:/STM32CubeIDE_1.7.0/LABs/LAB1_ex3.1/ex3.1lib</location>
 		</link>
 	</linkedResources>
 </projectDescription>
